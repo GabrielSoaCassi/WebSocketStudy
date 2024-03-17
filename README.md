@@ -1,2 +1,3 @@
 # WebSocketStudy
-A Project  where i try to do a chat using web socket and  more one API Where i receive a request 
+
+A project to study use of websockets while i try do a  kind of chat
