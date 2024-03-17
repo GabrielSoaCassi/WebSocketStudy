@@ -1,0 +1,6 @@
+@ClientWebSocketStudy_HostAddress = http://localhost:5133
+
+GET {{ClientWebSocketStudy_HostAddress}}/chat
+Accept: application/json
+
+###
