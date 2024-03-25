@@ -1,5 +1,0 @@
-@WebSocketStudy_HostAddress = http://localhost:5278
-
-GET {{WebSocketStudy_HostAddress}}/
-Accept: application/json
-###
